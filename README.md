@@ -1,7 +1,7 @@
 # Pretrained_Models_on_CIFAR_for_Pytorch
 I'll share a link contains pretrained models on CIFAR-10 and CIFAR-100 & upload results.
 
-Many pretrained Models are in [Here](https://github.com/chenyaofo/pytorch-cifar-models), and I trained models which aren't uploaded.
+Many pretrained Models are in [Here](https://github.com/chenyaofo/pytorch-cifar-models) too, and I trained models which aren't uploaded.
 
 # CIFAR-100
 I trained models on CIFAR-100 from [HERE](https://github.com/weiaicunzai/pytorch-cifar100).
