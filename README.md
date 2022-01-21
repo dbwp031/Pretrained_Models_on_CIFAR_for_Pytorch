@@ -8,4 +8,4 @@ You can download all the models below in [Here](https://drive.google.com/drive/f
 |Model|Paper's Top-1 Acc|Model's Top-1 Acc|
 |:------:|:---:|:---:|
 |ResNet-18| x |76.02%|
-|| x ||
+|ResNet-50| x |78.96%|
