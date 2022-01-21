@@ -11,7 +11,7 @@ You can download all the models below in [HERE](https://drive.google.com/drive/f
 |Model|Paper's Top-1 Acc|Model's Top-1 Acc|Data Aug|
 |:------:|:---:|:---:|:---:|
 |ResNet-18| x |76.02%|o|
-|ResNet-18| x |76.02%|x|
+|ResNet-18| x |63.XX%|x|
 |ResNet-50| x |78.96%|o|
 |ResNet-50| x |78.96%|x|
 |WideResNet-28-10|x||o|
