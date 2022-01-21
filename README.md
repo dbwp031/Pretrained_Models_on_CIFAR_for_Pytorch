@@ -5,6 +5,6 @@ I trained models on CIFAR-100 from [HERE](https://github.com/weiaicunzai/pytorch
 
 # CIFAR-100
 |Model|Paper's Top-1 Acc|Model's Top-1 Acc|
-|------|---|---|
+|:------:|:---:|:---:|
 |ResNet-18| x |76.02%|
 || x ||
